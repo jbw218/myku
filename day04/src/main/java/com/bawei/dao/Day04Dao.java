@@ -7,5 +7,6 @@ public class Day04Dao {
 	public void jiafa(){
 		int c = a+b;
 		System.out.println("5+3等于"+c);
+		System.out.println("柴伟真帅");
 	}
 }
